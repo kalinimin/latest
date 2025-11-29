@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Адрес контракта с лотереей:
+0x13c6D6c05fA757cfc384BC425080D3A4bd248506
 
 ## Getting Started
 
